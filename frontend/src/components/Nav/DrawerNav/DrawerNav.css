@@ -1,0 +1,19 @@
+.drawer-lang {
+    width: 90px;
+    height: 35px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-style: solid;
+    border-color: hsl(132, 30%, 58%);
+    background-color: hsl(132, 85%, 92%);
+    border-radius: 6px;
+    cursor: pointer;
+    margin-left: 65px;
+
+    
+}
+
+.drawer-lang:hover {
+  background-color: white;
+ }

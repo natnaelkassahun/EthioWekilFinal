@@ -1,0 +1,78 @@
+{
+  "exploreHeader": "Ethio",
+  "exploreHeader2": "Wekil",
+  "search for products": "Search for products",
+  "home":  "HOME",
+  "shop": "Shop",
+  "categories": "Categories",
+  "login": "Login",
+  "signUp": "SignUp",
+  "landing_header_1": "Same Price All Over Ethiopia",
+  "landing_header_2": "Checkout The",
+  "landing_header_3": "Best Product",
+  "shop now": "SHOP NOW",
+  "landingImg": "en_IMG",
+
+  "ourService_header": "OurService",
+  "ourService_body": "We use both online and offline platform to connects all local merchants to the main distributor or importer efficiently. We will leverage modern technologies and industry best practices to deliver a seamless and user-centric experience for merchants.",
+  "ProductInfo":  "Product Information",
+  "ProductInfo_body":  "Real-time product availability, pricing, and stock tracking capabilities.",
+  "InventoryManagement":  "Inventory Management",
+  "InventoryManagement_body":  "Centralized inventory management system for merchants and the main distributor/importer.",
+  "OrderManagement":  "Order Management",
+  "OrderManagement_body":  "Order management and tracking functionalities.",
+  "BothOnlineAndOffline":  "Both Online And Offline",
+  "BothOnlineAndOffline_body":  "Seamless integration between the online platform and existing offline systems.",
+
+  "Features":  "Features",
+  "OurFeatures":  "Our Features",
+  "OurFeatures_body":  "We achieve widespread adoption of the platform among local merchants, distributors, and importers, fostering a thriving and interconnected business ecosystem. Additionally, we aim to improve overall operational efficiency, optimize inventory management processes, and enhance the profitability of participating businesses.",
+  "MinimumPrice":  "Minimum price",
+  "Delivery":  "Delivery",
+  "Insurance":  "Insurance",
+  "LegalIntity":  "Legal intity",
+
+  "ContactUs":  "Contact Us",
+  "ContactUs_body":  "Have a comment ? Let's Talk!!",
+  "FullName":  "Full Name",
+  "EmailAddress":  "Email Address",
+  "YourMessage":  "Your Message",
+  "SendMessage":  "Send Message",
+  "GPSLocation":  "GPS Location",
+  "GPSLocation_body":  "Merkato Sidamo Tera Building Block 1 8th floor 813",
+
+  "FeaturedItems":  "Featured Items ",
+  "ShowAll":  "Show all ",
+
+  "Help":  "Help",
+  "Shipping":  "Shipping",
+  "Refund":  "Refund",
+  "FAQ":  "FAQ",
+  "AddisAbabaEthiopia":  "Addis Ababa, Ethiopia",
+  "StayConnected":  "Stay Connected",
+
+  "©2023EthioWekil":  "©2023 EthioWekil. |",
+  "developedBy":  "| developed by Natnael Kassahun|" ,
+
+  "FeaturedCategories":  "Featured Categories",
+
+  "Login":  "Login",
+  "Email":  "Email",
+  "Password":  "Password",
+  "ForgotPassword":  "Forgot password?",
+  "DontHaveAccount":  "Don't have account? ",
+  "CreateAccount":  "Create account",
+
+  "FirstName":  "First name",
+  "LastName":  "Last name",
+  "AlreadyHaveAccount":  "Already have account? ",
+
+  "Electronics":  "Electronics",
+  "Furnitures":  "Furnitures",
+  "Construction":  "Construction"
+
+
+
+  
+
+}

@@ -1,0 +1,11 @@
+.gps-button{
+  border-color:rgb(198, 255, 210);
+  border-width:  2px;
+  border-radius: 8px;
+  background-color: white;
+}
+
+.gps-button:hover{
+  background-color: rgb(206, 253, 217);
+  
+}

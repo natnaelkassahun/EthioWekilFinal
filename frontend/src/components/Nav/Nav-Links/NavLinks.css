@@ -1,0 +1,100 @@
+a {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+
+a:hover {
+    color: black;
+}
+
+.nav__bottom__container a {
+    text-decoration: none;
+    color: rgb(3, 3, 3);
+    width: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.nav__bottom__container a:hover {
+    color: rgb(104, 168, 107);
+    text-decoration-line: underline;
+ }
+
+.nav__bottom__container {
+    height: 50px;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    z-index: 100;
+}
+
+.bottom__container {
+    margin: auto;
+    display: flex;
+    align-items: center;
+    flex-direction: row
+}
+
+.container .nav-link {
+    color: black;
+}
+
+.control__small {
+    width: 50%;
+    height: auto;
+    display: none;
+}
+
+@media screen and (max-width: 780px) {
+    .nav__bottom__container{
+        display: none;
+    }
+}
+
+@media screen and (max-width: 780px) {
+    .control__small{
+       display: flex;
+       margin: auto 10px;
+    }
+}
+
+
+.control__bar__container {
+    height: auto;
+    width: 200px;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    z-index: 1000;
+}
+
+.controls__container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: row;
+    width: 80%;
+    height: 50px;
+}
+
+.control {
+    width: 65px;
+    height: 35px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-style: solid;
+    border-color: hsl(131, 41%, 95%);
+    border-radius: 6px;
+    cursor: pointer;
+    margin: 5px;
+}
+
+.control:hover {
+    background-color: hsl(132, 59%, 93%);
+    color: black;
+}
