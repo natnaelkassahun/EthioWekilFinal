@@ -76,7 +76,7 @@ const Landing = () => {
           <Carousel
               cards={cards}
               height="750px"
-              width="60%"
+              width="100%"
               margin="0 40px"
               offset={200}
               showArrows={false}
